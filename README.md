@@ -4,7 +4,7 @@ Um programador e desenvolvedor em constante aprimoramento e evolução, com foco
 
 Experiências
 -
-[![](https://skillicons.dev/icons?i=cs,java,mysql,php,html,css,bootstrap,unity,figma,github,git,postman,idea,vscode&perline=7)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cs,java,mysql,figma,idea,vscode&perline=3)](https://skillicons.dev)
 
 Estatísticas
 -
