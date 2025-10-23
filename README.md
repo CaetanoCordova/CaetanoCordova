@@ -1,10 +1,14 @@
-Caetano Córdova da Silva
+Caetano Córdova da Silva 
 -
-Um programador e desenvolvedor em constante aprimoramento e evolução, com foco nas linguagens C# e Java. Atualmente cursando um tecnólogo em Análise e Desenvolvimento de Software, busco expandir meu conhecimento não só através de estudos, mas também de hobbies. 
+Desenvolvedor Fullstack
+
+Experiência com Java com Spring, e React.js com JavaScript e Redux
+
+Atualmente cursando um tecnólogo em Análise e Desenvolvimento de Sistemas
 
 Experiências
 -
-[![](https://skillicons.dev/icons?i=cs,java,mysql,figma,idea,vscode&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,spring,mysql,js,react,redux,figma,idea,vscode&perline=6)](https://skillicons.dev)
 
 Estatísticas
 -
